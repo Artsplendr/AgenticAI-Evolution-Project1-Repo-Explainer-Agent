@@ -23,14 +23,16 @@ The Repo Explainer Agent can answer questions such as:
 
 Every answer is backed by verifiable evidence.
 
+![Repo Explainer Agent Web UI](assets/chart.png)
+
 Project layout
 --------------
-- `src/agent/`: core agent modules (orchestrator, policies, tools, evidence, models)
-- `src/cli.py`: simple CLI entry to invoke the agent
-- `tests/`: space for tests
-- `docs/`: specifications, architecture, examples
-- `sample_repo/`: optional tiny demo repo to test against
-- `pyproject.toml`: project metadata
+	•	`src/agent/`: core agent modules (orchestrator, policies, tools, evidence, models)
+	•	`src/cli.py`: simple CLI entry to invoke the agent
+	•	`tests/`: space for tests
+	•	`docs/`: specifications, architecture, examples
+	•	`sample_repo/`: optional tiny demo repo to test against
+	•	`pyproject.toml`: project metadata
 
 Web UI
 -----
