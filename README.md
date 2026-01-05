@@ -10,12 +10,14 @@ It serves as the foundational baseline for a larger journey: Agentic AI Evolutio
 What This Agent Does
 --------------
 Unlike typical LLM-powered code assistants, this agent:
+
 	•	Reads repositories only through explicit tools
 	•	Cites exact file paths and line ranges as evidence
 	•	Refuses to answer when evidence is insufficient
 	•	Exposes every tool call it makes
 
 The Repo Explainer Agent can answer questions such as:
+
 	•	Where is configuration loaded and managed?
 	•	How do I run this project locally?
 	•	Which file controls logging?
