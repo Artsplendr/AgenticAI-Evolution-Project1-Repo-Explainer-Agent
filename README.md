@@ -46,13 +46,15 @@ The project includes a simple web interface that allows you to:
 
 This UI is meant for learning and transparency, not abstraction.
 
+License
+-----
+MIT
+
 Use Case
 -----
 ![Repo Explainer Agent Web UI](assets/image-question.png)
 ![Repo Explainer Agent Web UI](assets/image-answer.png)
 
-License
------
-MIT
+
 
 
