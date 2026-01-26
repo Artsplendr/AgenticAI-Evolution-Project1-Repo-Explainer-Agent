@@ -5,7 +5,7 @@ Overview
 -----------
 Repo Explainer Agent is a deterministic tool-using agent designed to inspect, search, and explain a public code repository, using a strictly deterministic approach.
 This project is intentionally built without autonomous reasoning or hidden context.
-It serves as the foundational baseline for a larger journey: Agentic AI Evolution.
+It serves as the foundational baseline for an AgenticAI larger journey: moving from simple agents architecture to more sophisticated architectures.
 
 What This Agent Does
 --------------
